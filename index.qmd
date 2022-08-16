@@ -1,5 +1,5 @@
 ---
-title: "AI Blog"
+title: "AI Block"
 listing:
   contents: posts
   sort: "date desc"
