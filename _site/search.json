@@ -4,27 +4,13 @@
     "href": "index.html",
     "title": "Carsten’s AI Blog for Economists and Business Majors (coming soon)",
     "section": "",
-    "text": "Soon, you will find here short articles about Machine Learning and Artificial Intelligence relevant for economists and business majors.\nCurrently, you cannot subscribe. However, if you send me an email (clange@cpp.edu), I will add you manually to the subscription list.\nSee you soon.\nCarsten Lange\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 15, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 12, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Soon (Sept. 2022), you will find here short articles about Machine Learning and Artificial Intelligence relevant for economists and business majors.\nCurrently, you cannot subscribe. However, if you send me an email (clange@cpp.edu), I will add you manually to the subscription list and you get notified when the blog goes live.\nSee you soon.\nCarsten Lange\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Carsten",
     "section": "",
-    "text": "This is such nice blog about machine learning with economics."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Collaborations with other researchers include applying machine learning to the analysis of electronic properties of crystals, predicting urban development with random forest, predicting and interpreting vaccination hesitancy with random forest and Shapley values.\nIn economics, Lange specializes in economic impact analysis, money supply, inflation, and central bank policy."
   }
 ]

@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Carsten"
 image: profile.jpg
 about:
   template: jolla
@@ -15,4 +15,8 @@ about:
       href: https://github.com
 ---
 
-This is such nice blog about machine learning with economics.
+Carsten Lange is an economics professor at Cal Poly, Pomona. He specializes in data science, machine learning and geographic information systems.
+
+Collaborations with other researchers include applying machine learning to the analysis of electronic properties of crystals, predicting urban development with random forest, predicting and interpreting vaccination hesitancy with random forest and Shapley values.
+
+In economics, Lange specializes in economic impact analysis, money supply, inflation, and central bank policy.

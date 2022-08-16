@@ -13,7 +13,7 @@ title-block-banner: true
 
 This blog is still under construction.
 
-Soon, you will find here short articles about Machine Learning and Artificial Intelligence relevant for economists and business majors.
+Soon (Sept. 2022), you will find here short articles about Machine Learning and Artificial Intelligence relevant for economists and business majors.
 
 Currently, you cannot subscribe. However, if you send me an email (clange\@cpp.edu), I will add you manually to the subscription list and you get notified when the blog goes live.
 
